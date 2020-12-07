@@ -1,0 +1,4 @@
+temperature_f,temperature_c
+85,32
+110,15
+34,23
