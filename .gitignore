@@ -1,0 +1,7 @@
+test_codes/
+*/.DS_Store
+*/.ipynb_checkpoints
+*/*.csv
+*/*.zip
+*/*.key
+
